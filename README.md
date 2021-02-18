@@ -1,2 +1,2 @@
-# dego-token
-dego erc20 token contract
+# ciphi-token
+ciphi bep20 token contract
